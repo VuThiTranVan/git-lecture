@@ -20,5 +20,5 @@ demo lan 2
 demo lan 3 & fdemo 1
 demo lan 2
 demo lan 3 & fdemo 1
-demo lan 2
+demo lan 2]\\df\d\fde
 demo lan 3 & fs
