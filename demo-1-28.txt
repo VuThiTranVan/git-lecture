@@ -4,5 +4,8 @@ demo rebase 1
 
 demo rebase 1 - f
 
-demo resset commit
+demo ressetdemo resset
+ commit
+ demo resset
+
 demo resset commit
