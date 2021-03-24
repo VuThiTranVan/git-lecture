@@ -10,3 +10,8 @@ re
 rfgkmerg';
 wsefer
 frvge
+demo
+demo 2
+demo s
+demo with reset commit
+hello branch 1
