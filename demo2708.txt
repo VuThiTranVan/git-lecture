@@ -1,13 +1,2 @@
 demo 1
-demo lan 3 & fdemo 1
-demo lan 2
-demo lan 3 & fdemo 1
-demo lan 2
-demo lan 3 & fs
-demo lan 2
-demo lan 3 & f
-zde reset commit
-demo 1
-demo lan 2
-demo lan 3 & fdemo 1
-de
+demo lan 1 :D
