@@ -1,0 +1,11 @@
+hello
+hi first commit
+hi rebase with s
+
+demo reset
+
+demo reset with soft
+
+code of branch a
+code of branch a _ save stash
+
