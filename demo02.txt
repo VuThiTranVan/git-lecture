@@ -5,3 +5,11 @@ dfjnsdvj
 helo
 cdfsde
 sdvf
+
+Hello
+hello 2
+hi
+hihihi
+
+
+demo git reset with --soft
