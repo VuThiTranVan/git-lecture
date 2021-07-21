@@ -7,9 +7,18 @@ cdfsde
 sdvf
 
 Hello
+
 hello 2
 hi
 hihihi
 
-
 demo git reset with --soft
+
+hihihi
+
+demo git =-soft
+
+demo-1-21
+hello 2
+hi
+
