@@ -1,11 +1,3 @@
-demo02
-zcxz
-ascdasfcc
-dfjnsdvj
-helo
-cdfsde
-sdvf
-
 Hello
 hello 2
 hi
@@ -13,3 +5,11 @@ hihihi
 
 
 demo git reset with --soft
+
+demo
+
+demo with s
+
+demo with reset
+
+hello stash
