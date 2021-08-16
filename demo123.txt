@@ -1,6 +1,7 @@
-ggrht
-dsvfdy
-sadfedf
+demo 46 -1
 
-dvkm
 
+demo with reset
+
+
+demo with stash
