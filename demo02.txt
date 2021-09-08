@@ -1,15 +1,6 @@
-demo02
-zcxz
-ascdasfcc
-dfjnsdvj
-helo
-cdfsde
-sdvf
 
-Hello
-hello 2
-hi
-hihihi
+demo fresher 01
 
+demo second
 
-demo git reset with --soft
+demo rebase with squash
