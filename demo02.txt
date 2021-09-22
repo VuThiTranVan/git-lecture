@@ -1,15 +1,13 @@
-demo02
-zcxz
-ascdasfcc
-dfjnsdvj
-helo
-cdfsde
-sdvf
+Demo 1 OE 49
 
-Hello
-hello 2
-hi
-hihihi
+First commit
+
+second commit
+
+second commit with --amend
 
 
-demo git reset with --soft
+demo 2 commit with s
+
+
+demo with reset
