@@ -1,0 +1,15 @@
+HCM
+
+
+demo first commit
+
+demo 2 commit with squash
+
+
+demo with reset
+
+
+demo with option of reset
+
+
+demo  cherry-pick
