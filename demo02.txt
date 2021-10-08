@@ -1,15 +1,9 @@
-demo02
-zcxz
-ascdasfcc
-dfjnsdvj
-helo
-cdfsde
-sdvf
-
-Hello
-hello 2
-hi
-hihihi
-
 
 demo git reset with --soft
+demo 02 - edit 50
+
+demo 2 - edit use commit --amend
+
+hello reset
+
+done rebase
