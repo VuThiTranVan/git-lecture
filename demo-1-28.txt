@@ -5,4 +5,5 @@ demo rebase 1
 demo rebase 1 - f
 
 demo resset commit
-demo resset commit
+hello OE 53
+hi OE 53 - reset
