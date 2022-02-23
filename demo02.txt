@@ -1,3 +1,4 @@
+
 Demo 1 OE 49
 
 First commit
@@ -11,3 +12,18 @@ demo 2 commit with s
 
 
 demo with reset
+=======
+
+demo fresher 01
+
+demo second
+
+demo rebase with squash
+demo git reset with --soft
+demo 02 - edit 50
+
+demo 2 - edit use commit --amend
+
+hello reset
+
+done rebase
