@@ -1,4 +1,9 @@
 
+demo fresher 01
+
+demo second
+
+demo rebase with squash
 demo git reset with --soft
 demo 02 - edit 50
 
