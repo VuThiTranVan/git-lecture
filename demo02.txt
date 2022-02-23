@@ -1,4 +1,19 @@
 
+Demo 1 OE 49
+
+First commit
+
+second commit
+
+second commit with --amend
+
+
+demo 2 commit with s
+
+
+demo with reset
+=======
+
 demo fresher 01
 
 demo second
