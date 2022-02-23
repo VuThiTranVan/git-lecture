@@ -4,3 +4,11 @@ demo fresher 01
 demo second
 
 demo rebase with squash
+demo git reset with --soft
+demo 02 - edit 50
+
+demo 2 - edit use commit --amend
+
+hello reset
+
+done rebase

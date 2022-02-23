@@ -4,13 +4,11 @@ HCM demo
 demo 2
 HCM demo
 
+hcm.txt
 
-demo 2
-HCM demo
-HCM demo
-HCM demo
-df
+second commit nè
 
-dsc;lmdv
-'c
-'
+second commit (2) - use squash
+
+demo 2 - git rebase
+demo 2 - git rebase with s
