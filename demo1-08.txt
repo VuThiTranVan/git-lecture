@@ -1,16 +1,8 @@
-demo
-dcdsv
-dav
-dfvnj
-fgef
-sdsgf
 
-Hello branch a
+Demo 48B - 01
 
+second commit
 
-hi OE 46
+demo rebase with squash
 
-hi hi hi
-hello hello
-
-hi hello hi
+demo with reset
