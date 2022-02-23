@@ -1,3 +1,5 @@
+dgffd
+v fdb
 
 Demo 1 OE 49
 
@@ -22,8 +24,11 @@ demo rebase with squash
 demo git reset with --soft
 demo 02 - edit 50
 
-demo 2 - edit use commit --amend
+demo 2 - edit
+dfg
+dfuse commit --amend
 
-hello reset
+hello recv
+set
 
 done rebase
