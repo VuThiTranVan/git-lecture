@@ -6,3 +6,11 @@ fgef
 dfv
 sdsgf
 Hello branch a
+
+Demo 48B - 01
+
+second commit
+
+demo rebase with squash
+
+demo with reset
