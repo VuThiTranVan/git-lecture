@@ -1,1 +1,16 @@
 demo
+hihi
+
+
+n commit
+
+
+fkgnjv
+
+code use git reset --hard
+
+code use git rebase
+code use git rebase
+code use git rebase
+code use git rebase
+code use git rebase
