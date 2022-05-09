@@ -1,2 +1,4 @@
 newfile_dung.txt
 
+use commit
+--amend
